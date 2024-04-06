@@ -1,0 +1,160 @@
+body {
+  background-color: rgb(244, 216, 231);
+}
+
+.hidden {
+  display: none;
+}
+
+.title {
+  color: rgb(242, 109, 180);
+  text-align: center;
+  font-family: serif;
+  font-size: 4rem;
+  line-height: 8rem;
+  margin-bottom: 5rem;
+}
+
+.one__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.one__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.two__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.two__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.three__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.three__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.four__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.four__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.five__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.five__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.six__sign {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.six__text {
+  font-family: serif;
+  font-size: 2rem;
+  color: rgb(251, 18, 142);
+}
+
+.gym {
+  text-decoration: line-through;
+}
+
+.bills {
+  text-decoration: line-through;
+}
+
+.meet {
+  text-decoration: line-through;
+}
+
+.eggs {
+  text-decoration: line-through;
+}
+
+.read {
+  text-decoration: line-through;
+}
+
+.office {
+  text-decoration: line-through;
+}
+
+.green__one {
+  background-color: rgb(72, 247, 72);
+}
+
+.green__two {
+  background-color: rgb(72, 247, 72);
+}
+
+.green__three {
+  background-color: rgb(72, 247, 72);
+}
+
+.green__four {
+  background-color: rgb(72, 247, 72);
+}
+
+.green__six {
+  background-color: rgb(72, 247, 72);
+}
+
+.green__five {
+  background-color: rgb(72, 247, 72);
+}

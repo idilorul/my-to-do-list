@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.section {
+  margin-top: 8rem;
+}
+
+.one {
+  display: flex;
+  gap: 2rem;
+}
+
+.two {
+  display: flex;
+  gap: 2rem;
+}
+
+.three {
+  display: flex;
+  gap: 2rem;
+}
+
+.four {
+  display: flex;
+  gap: 2rem;
+}
+
+.five {
+  display: flex;
+  gap: 2rem;
+}
+
+.six {
+  display: flex;
+  gap: 2rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+}
